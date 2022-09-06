@@ -1,7 +1,2 @@
 #!/bin/bash
-git log --format='%H' -n5
-0d8f0dbba58dd52d74e08a00086cafc7514ccdde~
-880cf3df2422d22d73906ddf342f721b74a92523~
-6300292a32d0b785f2aeea5ef3800462250aa817~
-1813177ceaa24b6ab2eb54a892e552e669fad11a~
-165b758826ed6d0c5e3c374cd401d7ec5d242635~
+git log --pretty='%H' -n5
